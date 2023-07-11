@@ -1,7 +1,7 @@
 
 # GadgetHive
 
-GadgetHive is an all-inclusive catalog application that showcases a wide range of electronic items such as smartphones, TVs, iPads, laptops, and earbuds. This app offers an extensive selection of the latest and most popular electronic devices, allowing users to browse and compare products easily. Whether you're looking for a new phone, a tablet, a TV, or a laptop, GadgetHive has you covered with its comprehensive collection of electronics items.
+GadgetHive is an all-inclusive catalog application that showcases a wide range of electronic items such as smartphones, TVs, iPads, laptops, and earbuds. This app offers an extensive selection of the latest and most popular electronic devices, allowing users to browse and compare products easily. Whether you're looking for a new phone, a tablet, a TV, or a laptop, GadgetHive have you covered with its comprehensive collection of electronics items.
 
 
 ## Screenshots
